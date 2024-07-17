@@ -6,9 +6,9 @@ createApp({
         return {
             // AGGIUNGO IL CONTENUTO DA POI INSERIRE NEL DOM
             message: "Hello Vue",
-            pokemon: {
-                img: './img/001.png',
-                name: 'Bulbasaur'
+            vue: {
+                logo: './img/001.png',
+                name: 'Vue'
             }
         }
     }
